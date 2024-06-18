@@ -72,7 +72,7 @@ Ensure that your internet connection is active.
    ```sh
    npm run dev
 
-10. **Start the Development Server**
+9. **Start the Development Server**
 
    Run the following command to start the Laravel development server.
 
