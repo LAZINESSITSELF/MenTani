@@ -2,6 +2,10 @@
 
 MenTani
 
+## Default Credentials
+- Username: admin
+- Password: admin
+
 ## Set Up
 
 ### Check Internet Connection
@@ -78,9 +82,3 @@ Ensure that your internet connection is active.
 
    ```sh
    php artisan serve
-
-
-
-## Default Credentials
-- Username: admin
-- Password: admin
