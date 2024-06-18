@@ -25,13 +25,6 @@ Ensure that your internet connection is active.
    ```sh
    cp .env.example .env
 
-3. **Copy Environment File**
-
-   Copy the example environment file to a new `.env` file.
-
-   ```sh
-   cp .env.example .env
-
 4. **Configure .env Database Settings**
 
    Open the .env file and configure the database settings to match your database credentials.
@@ -86,6 +79,6 @@ Ensure that your internet connection is active.
    ```sh
    php artisan serve
 
-11. **Default Credentials**
+## Default Credentials
 - Username: admin
 - Password: admin
