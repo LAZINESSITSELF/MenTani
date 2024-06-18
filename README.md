@@ -86,7 +86,6 @@ Ensure that your internet connection is active.
    ```sh
    php artisan serve
 
-
-## **Default Credentials**
+11. **Default Credentials**
 - Username: admin
 - Password: admin
