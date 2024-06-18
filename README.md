@@ -1,16 +1,26 @@
+# Project Name
+
+MenTani
+
 ## Set Up
-Check Internet connection
 
-1. create sql database
-2. open terminal on root directory
-3. cp .env.example .env
-4. Configure .env database
-5. php artisan key:generate
-6. npm install
-7. composer install
-8. php artisan db:seed --class=UserSeeder
-9. npm run dev
-10. php artisan serve
+### Check Internet Connection
 
-## username : admin
-## password : admin
+Ensure that your internet connection is active.
+
+### Steps to Set Up the Project
+
+1. **Create SQL Database**
+
+   Create a new SQL database for your project.
+
+2. **Open Terminal**
+
+   Open the terminal and navigate to the root directory of your project.
+
+3. **Copy Environment File**
+
+   Copy the example environment file to a new `.env` file.
+
+   ```sh
+   cp .env.example .env
