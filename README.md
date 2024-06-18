@@ -12,5 +12,5 @@ Check Internet connection
 9. npm run dev
 10. php artisan serve
 
-username : admin
-password : admin
+## username : admin
+## password : admin
