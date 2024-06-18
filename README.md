@@ -11,3 +11,6 @@ Check Internet connection
 8. php artisan db:seed --class=UserSeeder
 9. npm run dev
 10. php artisan serve
+
+username : admin
+password : admin
