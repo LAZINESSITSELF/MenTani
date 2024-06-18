@@ -3,8 +3,8 @@
 MenTani
 
 ## Default Credentials
-- Username: admin
-- Password: admin
+- Username : admin
+- Password : admin
 
 ## Set Up
 
