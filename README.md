@@ -80,5 +80,5 @@ Ensure that your internet connection is active.
    php artisan serve
 
 ## Default Credentials
-- Username: admin
+Markup : - Username: admin
 - Password: admin
